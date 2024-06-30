@@ -27,6 +27,7 @@ queuelib==1.7.0
 requests==2.32.3
 requests-file==2.1.0
 Scrapy==2.11.2
+scrapy-inline-requests==0.3.1
 service-identity==24.1.0
 six==1.16.0
 tldextract==5.1.2
@@ -36,5 +37,3 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 w3lib==2.2.1
 zope.interface==6.4.post2
-
-scrapy-inline-requests~=0.3.1
